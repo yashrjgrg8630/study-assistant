@@ -1,0 +1,10 @@
+streamlit
+pypdf2
+faiss-cpu
+sentence-transformers
+numpy
+scikit-learn
+nltk
+transformers
+accelerate
+sentencepiece
