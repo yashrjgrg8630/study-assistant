@@ -21,17 +21,13 @@ The app is designed to make exam preparation faster by transforming lengthy note
 
 Python 3.10+
 
-Streamlit
- – interactive web app framework
+Streamlit – interactive web app framework
 
-NLTK
- – natural language processing utilities
+NLTK – natural language processing utilities
 
-FAISS
- – vector similarity search
+FAISS – vector similarity search
 
-SentenceTransformers
- – semantic embeddings
+SentenceTransformers – semantic embeddings
 
 📂 Project Structure
 study_assistant/
@@ -82,11 +78,20 @@ Contributions, issues, and feature requests are welcome!
 
 Fork the repository
 
-Create your feature branch → git checkout -b feature/YourFeature
+Create your feature branch →
 
-Commit changes → git commit -m "Add feature"
+git checkout -b feature/YourFeature
 
-Push to branch → git push origin feature/YourFeature
+
+Commit changes →
+
+git commit -m "Add feature"
+
+
+Push to branch →
+
+git push origin feature/YourFeature
+
 
 Open a Pull Request
 
