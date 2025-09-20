@@ -42,27 +42,22 @@ study_assistant/
 │── vectorstore/       # auto-generated FAISS DB (ignored in git)
 
 ⚡ Installation & Usage
-1. Clone the repository
+1️⃣ Clone the repository
 git clone https://github.com/yashrjgrg8630/study-assistant.git
 cd study-assistant
 
-2. Create and activate a virtual environment (recommended)
-# Windows
+2️⃣ Create and activate a virtual environment (Windows)
 python -m venv venv
 venv\Scripts\activate
 
-# Mac/Linux
-python -m venv venv
-source venv/bin/activate
-
-3. Install dependencies
+3️⃣ Install dependencies
 pip install -r requirements.txt
 
-4. Run the application
+4️⃣ Run the application
 streamlit run app.py
 
 
-Then, open http://localhost:8501
+👉 Then, open http://localhost:8501
  in your browser.
 
 📌 Notes
@@ -83,15 +78,15 @@ Cloud deployment (Streamlit Cloud / Hugging Face Spaces)
 
 🤝 Contributing
 
-Pull requests and feature suggestions are welcome!
+Contributions, issues, and feature requests are welcome!
 
-Fork the repo
+Fork the repository
 
-Create your feature branch (git checkout -b feature/YourFeature)
+Create your feature branch → git checkout -b feature/YourFeature
 
-Commit changes (git commit -m "Add feature")
+Commit changes → git commit -m "Add feature"
 
-Push to the branch (git push origin feature/YourFeature)
+Push to branch → git push origin feature/YourFeature
 
 Open a Pull Request
 
